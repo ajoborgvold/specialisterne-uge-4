@@ -11,4 +11,4 @@ I `sorting.py` er koden inddelt i tre blokke, markeret med kommentarer og en kor
 
 ## Mit fokus denne uge
 Jeg har aldrig arbejdet med Python før, så mit fokus har først og fremmest været at lære sproget at kende. Jeg har for øvelsens skyld forsøgt at inkorporere forskellige funktioner og metoder, og mange steder har jeg skrevet kommentarer, mest til mig selv, så jeg også kan læse og forstå min egen kode i fremtiden.
-Jeg har ikke lavet visualisering af navnelængder, men beregninger af gennemsnit og median findes i `sorting.py`.# specialisterne-uge-4
+Jeg har ikke lavet visualisering af navnelængder, men beregninger af gennemsnit og median findes i `sorting.py`.
